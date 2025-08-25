@@ -1,0 +1,8 @@
+<nav class="post-nav" style="display:flex;justify-content:space-between">
+  <div>
+    {{ with .PrevInSection }}<a href="{{ .RelPermalink }}">← {{ .Title }}</a>{{ end }}
+  </div>
+  <div>
+    {{ with .NextInSection }}<a href="{{ .RelPermalink }}">{{ .Title }} →</a>{{ end }}
+  </div>
+</nav>

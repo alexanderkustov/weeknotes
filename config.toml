@@ -1,0 +1,38 @@
+baseURL = "https://alexanderkustov.github.io/weeknotes/"
+languageCode = "en-gb"
+title = "Weeknotes"
+theme = "PaperMod"
+timeZone = "Europe/London"
+
+[permalinks]
+  weeknotes = "/weeknotes/:year/:slug/"
+
+[taxonomies]
+  tag = "tags"
+  series = "series"
+  category = "categories"
+
+[params]
+  env = "production"
+  description = "Weekly notes."
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  disableSpecial1stPost = true
+  comments = true
+
+[menu]
+  [[menu.main]]
+    name = "Weeknotes"
+    url = "/weeknotes/"
+    weight = 10
+  [[menu.main]]
+    name = "RSS"
+    url = "/index.xml"
+    weight = 20
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/weeknotes/tags/2025/</loc>
+    <lastmod>2025-08-25T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/weeknotes/tags/</loc>
+    <lastmod>2025-08-25T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/weeknotes/tags/w35/</loc>
+    <lastmod>2025-08-25T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/weeknotes/weeknotes/2025/w35/</loc>
+    <lastmod>2025-08-25T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/weeknotes/</loc>
+    <lastmod>2025-08-25T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/weeknotes/tags/weeknotes/</loc>
+    <lastmod>2025-08-25T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/weeknotes/weeknotes/</loc>
+    <lastmod>2025-08-25T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/weeknotes/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/weeknotes/series/</loc>
+  </url>
+</urlset>
